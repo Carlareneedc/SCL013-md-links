@@ -1,11 +1,11 @@
 ![mdlogo](/img/logomdlinks2.png)
 
-*  1. MD linkS
-*  2. Construcción del proyecto
-*  3. ¿Cómo funciona?
-*  4. Herramientas
-*  5. Dependencias
-*  6. Autoras
+*  MD linkS
+*  Construcción del proyecto
+*  ¿Cómo funciona?
+*  Herramientas
+*  Dependencias
+*  Autoras
 
 ***
 
@@ -19,14 +19,16 @@ Normalmente los archivos de texto plano **“Markdown”** contienen vínculos o
 Es por lo anterior, que nuestro cliente nos ha encargado generar una solución ante este posible problema. Para esto utilizaremos una importante herramienta para el mundo de la programación.[Node.js](https://nodejs.org/) permite que podamos leer y analizar el formato **“Markdown”**, verificar links y hacer reporte de estadísticas.
 De acuerdo a las necesidades de nuestro cliente y nuestros usuarios, construimos el siguiente diagrama de flujo, lo que nos permite dar funcionalidad a nuestra librería.
 
-![diagrama](/img/diagrama.jpg)
+![diagrama](/img/diagramadeflujo.jpg)
 
 3. ¿Cómo funciona?
 
 Para instalar mdLinks, debes abrir tu terminal y escribir el siguiente comando:
-npm (blablabla)
+
+* **npm i charlie-nia-md-links**
+
 Luego, para que puedas hacer uso de la librería:
-(blablablaba)
+* **const mdLinks = require('./index')**
 
 4. Herramientas
 
