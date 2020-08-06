@@ -1,6 +1,10 @@
 * [Leer un directorio](https://nodejs.org/api/fs.html#fs_fs_readdir_path_options_callback)
 * [Path](https://nodejs.org/api/pathhdsh.html)
 * [Linea de comando CLI](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
+[Repositorio GitHub  ](https://github.com/Niamoyano91/)
+[MDLINKS -NODE ](https://www.npmjs.com/package/charlie-nia-md-links)
+[Google <3 ](https://www.googleeee.com/)
+[Sitio developer — Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScriptswsw)
 
 ## 9. Checklist
 
